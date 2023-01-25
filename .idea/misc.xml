@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/java for android project/Complite Full PRoject/BugBd Personal Project/Photography/PhotoGraphyAdmin/app/src/main/res/drawable/gardient_bg_1.xml" value="0.186" />
+        <entry key="..\:/java for android project/Complite Full PRoject/BugBd Personal Project/Photography/PhotoGraphyAdmin/app/src/main/res/drawable/roundbg1.xml" value="0.186" />
+        <entry key="..\:/java for android project/Complite Full PRoject/BugBd Personal Project/Photography/PhotoGraphyAdmin/app/src/main/res/drawable/slider_oval.xml" value="0.186" />
+        <entry key="..\:/java for android project/Complite Full PRoject/BugBd Personal Project/Photography/PhotoGraphyAdmin/app/src/main/res/layout/activity_category_create.xml" value="0.18" />
+        <entry key="..\:/java for android project/Complite Full PRoject/BugBd Personal Project/Photography/PhotoGraphyAdmin/app/src/main/res/layout/activity_category_list.xml" value="0.2" />
+        <entry key="..\:/java for android project/Complite Full PRoject/BugBd Personal Project/Photography/PhotoGraphyAdmin/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/java for android project/Complite Full PRoject/BugBd Personal Project/Photography/PhotoGraphyAdmin/app/src/main/res/layout/activity_photography_photo_pose.xml" value="0.25" />
+        <entry key="..\:/java for android project/Complite Full PRoject/BugBd Personal Project/Photography/PhotoGraphyAdmin/app/src/main/res/layout/activity_slider.xml" value="0.2" />
+        <entry key="..\:/java for android project/Complite Full PRoject/BugBd Personal Project/Photography/PhotoGraphyAdmin/app/src/main/res/layout/activity_upload_slider.xml" value="0.25" />
+        <entry key="..\:/java for android project/Complite Full PRoject/BugBd Personal Project/Photography/PhotoGraphyAdmin/app/src/main/res/layout/activity_video_list.xml" value="0.16" />
+        <entry key="..\:/java for android project/Complite Full PRoject/BugBd Personal Project/Photography/PhotoGraphyAdmin/app/src/main/res/layout/activity_video_upload.xml" value="0.2" />
+        <entry key="..\:/java for android project/Complite Full PRoject/BugBd Personal Project/Photography/PhotoGraphyAdmin/app/src/main/res/layout/category_row_item.xml" value="0.2" />
+        <entry key="..\:/java for android project/Complite Full PRoject/BugBd Personal Project/Photography/PhotoGraphyAdmin/app/src/main/res/layout/dropdown_item.xml" value="0.1675213675213675" />
+        <entry key="..\:/java for android project/Complite Full PRoject/BugBd Personal Project/Photography/PhotoGraphyAdmin/app/src/main/res/layout/slider_row_item.xml" value="0.22" />
+        <entry key="..\:/java for android project/Complite Full PRoject/BugBd Personal Project/Photography/PhotoGraphyAdmin/app/src/main/res/layout/video_row_item.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

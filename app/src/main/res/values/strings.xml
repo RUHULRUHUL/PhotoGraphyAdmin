@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PhotoGraphyAdmin</string>
+    <string name="wellComeTxt">
+        Hello Mr,Welcome to Our admin  App \n You Can Change Here
+    </string>
+
+</resources>

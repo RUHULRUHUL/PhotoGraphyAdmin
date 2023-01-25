@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "299524161838",
+    "firebase_url": "https://prophotography-14440-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "prophotography-14440",
+    "storage_bucket": "prophotography-14440.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299524161838:android:146bfeb455c753a3c87abf",
+        "android_client_info": {
+          "package_name": "com.bugbd.photographyadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299524161838-dptctnv7edpcblcmlepkngpllc5nd8su.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bugbd.photographyadmin",
+            "certificate_hash": "b0079ec98a578a8498557a3ab2170710ba858324"
+          }
+        },
+        {
+          "client_id": "299524161838-3339pf0okr6dra8oesnr07joe35fa5fs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaSfD5B-tFhBepXDthPtIXL9iS9_oxwWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299524161838-3339pf0okr6dra8oesnr07joe35fa5fs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299524161838:android:55b072cc9f15f1cec87abf",
+        "android_client_info": {
+          "package_name": "com.bugbd.prophotography"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299524161838-a7jjfreanc01aouupdie3eussff5gh9s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bugbd.prophotography",
+            "certificate_hash": "b0079ec98a578a8498557a3ab2170710ba858324"
+          }
+        },
+        {
+          "client_id": "299524161838-3339pf0okr6dra8oesnr07joe35fa5fs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaSfD5B-tFhBepXDthPtIXL9iS9_oxwWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299524161838-3339pf0okr6dra8oesnr07joe35fa5fs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
